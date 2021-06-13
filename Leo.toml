@@ -1,0 +1,8 @@
+[project]
+name = "sorting_leo"
+version = "0.1.0"
+description = "Sorting Algorithm's in Leo"
+license = "MIT"
+
+[remote]
+author = "Dheeraj"
